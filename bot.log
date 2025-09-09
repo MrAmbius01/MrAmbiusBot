@@ -127,3 +127,48 @@
 2025-09-08 23:27:59,567 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
 2025-09-08 23:27:59,570 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
 2025-09-08 23:27:59,571 - telegram.ext.Application - INFO - Application.stop() complete
+2025-09-09 05:07:15,562 - __main__ - INFO - Loaded BOT_TOKEN from environment variables
+2025-09-09 05:07:15,584 - __main__ - INFO - Database initialized successfully
+2025-09-09 05:07:15,585 - __main__ - INFO - Starting bot application
+2025-09-09 05:07:16,401 - __main__ - ERROR - Error starting bot: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-09-09 06:04:32,514 - __main__ - INFO - Loaded BOT_TOKEN from environment variables
+2025-09-09 06:04:32,523 - __main__ - INFO - Database initialized successfully
+2025-09-09 06:04:32,524 - __main__ - INFO - Starting bot application
+2025-09-09 06:04:33,675 - __main__ - INFO - Handlers registered: start, help, balance, button, unknown, error
+2025-09-09 06:04:33,675 - __main__ - INFO - Scheduled daily broadcast at 09:00
+2025-09-09 06:04:34,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getMe "HTTP/1.1 200 OK"
+2025-09-09 06:04:34,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/deleteWebhook "HTTP/1.1 200 OK"
+2025-09-09 06:04:34,897 - telegram.ext.Application - INFO - Application started
+2025-09-09 06:05:05,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:05:35,667 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:05:38,573 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:05:38,578 - __main__ - INFO - Processing /start for user 7990747366 (MrOxygenGas)
+2025-09-09 06:05:38,645 - __main__ - INFO - Registered user 7990747366 (MrOxygenGas), referred by None
+2025-09-09 06:05:40,515 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/sendMessage "HTTP/1.1 200 OK"
+2025-09-09 06:05:40,516 - __main__ - INFO - User 7990747366 started the bot
+2025-09-09 06:05:48,293 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:05:50,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-09-09 06:05:50,030 - __main__ - INFO - Processing button official_channel for user 7990747366
+2025-09-09 06:05:50,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/editMessageText "HTTP/1.1 200 OK"
+2025-09-09 06:05:50,605 - __main__ - INFO - User 7990747366 clicked button: official_channel
+2025-09-09 06:05:56,413 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:05:57,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-09-09 06:05:57,406 - __main__ - INFO - Processing button earn_money for user 7990747366
+2025-09-09 06:05:57,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/editMessageText "HTTP/1.1 200 OK"
+2025-09-09 06:05:57,716 - __main__ - INFO - User 7990747366 clicked button: earn_money
+2025-09-09 06:06:27,815 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:06:58,202 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:07:02,929 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:07:02,945 - __main__ - INFO - Processing /balance for user 7990747366
+2025-09-09 06:07:05,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/sendMessage "HTTP/1.1 200 OK"
+2025-09-09 06:07:05,506 - __main__ - INFO - User 7990747366 checked balance: $0.00
+2025-09-09 06:07:11,951 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:07:12,800 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-09-09 06:07:12,800 - __main__ - INFO - Processing button earn_money for user 7990747366
+2025-09-09 06:07:13,760 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/editMessageText "HTTP/1.1 200 OK"
+2025-09-09 06:07:13,762 - __main__ - INFO - User 7990747366 clicked button: earn_money
+2025-09-09 06:07:42,367 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:08:13,088 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:08:20,990 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8284080580:AAH7WTb7HuKpwB-Mx54JyNGl1IAEaihxYcU/getUpdates "HTTP/1.1 200 OK"
+2025-09-09 06:08:20,990 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-09-09 06:08:20,990 - telegram.ext.Application - INFO - Application.stop() complete
