@@ -1,4 +1,3 @@
-
 {
   "version": 2,
   "builds": [
@@ -9,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/webhook",
       "dest": "bot.py"
     }
   ]
